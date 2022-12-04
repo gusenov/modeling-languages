@@ -12,3 +12,10 @@ Alloy может генерировать модели которые имеют
 
 - [Пример](example)
 - [Связи между частями системы](relationships-between-parts-of-systems)
+- [Поля как выражения]field-expressions)
+- [Мультисвязи](multirelations)
+- [Множественность сигнатур](signature-multiplicity)
+- [Подтипы](subtypes)
+- [Подтипы и связи](subtypes-and-relationships)
+- [Дочерние связи](child-relations)
+- [Enums](enums)
